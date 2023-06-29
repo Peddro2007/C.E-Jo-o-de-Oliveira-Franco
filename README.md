@@ -1,2 +1,2 @@
-# C.E-Jo-o-de-Oliveira-Franco
+# C.E-João-de-Oliveira-Franco
 projeto escolar 2ºC
