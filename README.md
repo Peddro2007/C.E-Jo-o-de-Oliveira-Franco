@@ -1,2 +1,5 @@
 # C.E-João-de-Oliveira-Franco
-projeto escolar 2ºC
+Projeto Escolar 2ºC
+Projeto NÃO sendo desenvolvido por:
+ * Pedro Henrique Nº28
+ "escreva seu nome aqui"
