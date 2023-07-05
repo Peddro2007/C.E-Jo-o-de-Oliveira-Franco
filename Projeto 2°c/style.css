@@ -1,6 +1,6 @@
 .menu {
-    background-color: #ffffff;
-    color: rgb(0, 0, 0);
+    background-color: #a02424;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -26,9 +26,12 @@
     width: 15%;
     margin: 0 -250px;
 }
+.descrição-imagem{
+    margin: 30px 100px;
+}
 .descrição-1{
     display: inline-block;
     position: absolute;
-    margin: 35px 155px;
+    margin: 35px 1px;
     font-size: 20px;
 }
