@@ -1,10 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .menu {
     background-color: #a02424;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 20px 0;
 }
 .menu-lista-item-1{
     display: inline-block;
@@ -18,6 +22,14 @@
     display: inline-block;
     position: absolute;
     margin: -15px 155px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu-lista-item-3{
+    display: inline-block;
+    position: absolute;
+    margin: -15px -80px;
     font-size: 24px;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
