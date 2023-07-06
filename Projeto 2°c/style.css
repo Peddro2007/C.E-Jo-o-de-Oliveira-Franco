@@ -8,25 +8,9 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 .menu-lista-item-1{
-    display: inline-block;
-    position: absolute;
-    margin: -15px 45px;
-    font-size: 24px;
-    font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
-}
-.menu-lista-item-2{
-    display: inline-block;
-    position: absolute;
-    margin: -15px 155px;
-    font-size: 24px;
-    font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
-}
-.menu-lista-item-3{
     display: inline-block;
     position: absolute;
     margin: -15px -80px;
@@ -34,19 +18,36 @@
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
+.menu-lista-item-2{
+    display: inline-block;
+    position: absolute;
+    margin: -15px 20px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu-lista-item-3{
+    display: inline-block;
+    position: absolute;
+    margin: -15px 155px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
 .menu-imagem{
-    width: 15%;
+    width: 10%;
     margin: 0 -250px;
 }
 .descrição-imagem{
-    margin: 30px 100px;
+    margin: 0 100px;
 }
 .descrição-1{
     display: inline-block;
     position: absolute;
     margin: 35px 1px;
     font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.coloração-da-letra-1, .coloração-da-letra-2{
+.coloração-da-letra-1, .coloração-da-letra-2, .coloração-da-letra-3{
     color: #a02424;
 }
